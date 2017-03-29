@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_01_EF_dbFirst", "Demo_01_EF_dbFirst\Demo_01_EF_dbFirst.csproj", "{C9B13C3A-A271-4B82-A95E-1EFECB6A6AFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PL.Models", "PL.Models\PL.Models.csproj", "{A6ED900E-1A45-4E6F-975F-482557FB625E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9B13C3A-A271-4B82-A95E-1EFECB6A6AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B13C3A-A271-4B82-A95E-1EFECB6A6AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B13C3A-A271-4B82-A95E-1EFECB6A6AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B13C3A-A271-4B82-A95E-1EFECB6A6AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6ED900E-1A45-4E6F-975F-482557FB625E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6ED900E-1A45-4E6F-975F-482557FB625E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6ED900E-1A45-4E6F-975F-482557FB625E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6ED900E-1A45-4E6F-975F-482557FB625E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
